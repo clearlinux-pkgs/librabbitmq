@@ -1,0 +1,5 @@
+# broken %check with the following error:
+clib/librabbitmq/amqp_socket.c: In function ‘amqp_login_inner’:
+clib/librabbitmq/amqp_socket.c:1195:28: error: ‘AMQ_PLATFORM’ undeclared (first use in this function)
+         amqp_cstring_bytes(AMQ_PLATFORM);
+                            ^
