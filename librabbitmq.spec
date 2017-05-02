@@ -4,7 +4,7 @@
 #
 Name     : librabbitmq
 Version  : 1.6.1
-Release  : 7
+Release  : 8
 URL      : https://pypi.python.org/packages/source/l/librabbitmq/librabbitmq-1.6.1.tar.gz
 Source0  : https://pypi.python.org/packages/source/l/librabbitmq/librabbitmq-1.6.1.tar.gz
 Summary  : AMQP Client using the rabbitmq-c library.
